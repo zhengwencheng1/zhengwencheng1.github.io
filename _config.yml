@@ -65,4 +65,4 @@ collections:
     output: true
     permalink: /people/:title/index.html
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
